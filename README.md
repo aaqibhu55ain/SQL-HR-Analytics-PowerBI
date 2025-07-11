@@ -42,6 +42,12 @@ As a data analyst at **We**, I was responsible for:
 ├── documentation/
 │ └── SQL Project.docx
 
+## 🔄 Data Pipeline
+
+1. **Excel to MySQL**: Uploaded the raw HR data from `Final_source_table.xlsx` into a MySQL database using Python (Jupyter Notebook).
+2. **Data Cleaning & Normalization**: Used SQL queries to clean, normalize, and structure the data across multiple related tables.
+3. **Recruitment Logic**: Implemented filtering, salary calculations, and project assignment using SQL.
+4. **Power BI Dashboard**: Visualized the processed data using Power BI with filters, slicers, and forecast charts.
 
 ---
 
